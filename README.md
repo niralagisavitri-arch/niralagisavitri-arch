@@ -101,21 +101,3 @@
 ---
 
 > "Curious mind, creative solutions, endless learning."
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Anushree190305\&theme=tokyonight\&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anushree190305\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree190305\&layout=compact\&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Anushree190305\&theme=tokyonight)
-
----
-
-> "Curious mind, creative solutions, endless learning."
